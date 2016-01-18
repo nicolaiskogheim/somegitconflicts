@@ -26,6 +26,11 @@ Other folders contain more files and folders.
 
 ## Folder overview
 
+- mini
+  The smallest possible conflict.  
+  Here we learn how to abort a merge, and how to resolve it  
+  by just editing the file.
+
 ## General info and tips
 
 ### What is a conflict?
