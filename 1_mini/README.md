@@ -78,6 +78,9 @@ So, first things first: To abort the merge, and revert to the situation
 before `git merge feature`, you can run `git merge --abort`.
 Warning: This will undo the merge, and all changes you may have done 
 while in this state to tracked files.
+*Note*: The `--abort` option was introduced somewhere after in Git 1.7, so
+if you are doing these exercises on the ifi servers, you must use
+`git reset --hard` to abort the merge and discard changes.
 
 If you did abort the merge, make sure you merge again, to create the
 conflict.
