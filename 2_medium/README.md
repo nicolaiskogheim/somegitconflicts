@@ -68,6 +68,8 @@ index e08f8ae..b56474b 100644
  }
 ```
 
+*Want colors? Run `git config --global color.ui auto` to enable the color-setting*
+
 `HEAD` in `git diff HEAD^` is a label, much like a branch, which just points to
 a commit hash (that statement is not entirely accurate, but that's not
 important here.
