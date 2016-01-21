@@ -16,7 +16,8 @@ Please open issues and pull requests if you have questions or suggestions.
 ## How to use this
 1. `cd` into a directory
 2. Run `./init.sh` to initialize the example repository
-3. `git merge feature` to merge in changes from feature branch
+3. `git branch` to see the two branches in the repo
+3. `git merge <branch name>` to merge in changes from the feature branch into master
 4. Solve the conflict! :)
 
 All the folders will contain a README.md, which you should take a look at.
