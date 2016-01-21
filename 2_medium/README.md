@@ -71,8 +71,8 @@ index e08f8ae..b56474b 100644
 *Want colors? Run `git config --global color.ui auto` to enable the color-setting*
 
 `HEAD` in `git diff HEAD^` is a label, much like a branch, which just points to
-a commit hash (that statement is not entirely accurate, but that's not
-important here.
+a commit hash. (That statement is not entirely accurate, but that's not
+important here.)
 
 `^` references the parent commit. There is also an ancestor selector which does
 exactly the same thing in this case, if you write `HEAD~`.  We won't go into

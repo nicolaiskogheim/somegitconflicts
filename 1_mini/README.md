@@ -76,7 +76,7 @@ the only file tracked in this repo, apart from a `.gitignore`.
 
 So, first things first: To abort the merge, and revert to the situation
 before `git merge feature`, you can run `git merge --abort`.
-Warning: This will undo the merge, and all changes you may have done 
+*Warning*: This will undo the merge, and all changes you may have done
 while in this state to tracked files.
 *Note*: The `--abort` option was introduced somewhere after in Git 1.7, so
 if you are doing these exercises on the ifi servers, you must use
