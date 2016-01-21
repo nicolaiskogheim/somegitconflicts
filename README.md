@@ -202,7 +202,7 @@ For large and/or complicated conflicts, you might be better of using a tool. See
   using the terminal as you won't always have a GUI to run your apps. Trust me, this will happen from time to time.
 
 - [Github desktop client](https://desktop.github.com/)
-- [Fugitive for Vim](https://github.com/tpope/vim-fugitive)
+- [Fugitive for Vim](https://github.com/tpope/vim-fugitive)  
   [Tutorials](http://vimcasts.org/blog/2011/05/the-fugitive-series/)
 - [Ungit](https://github.com/FredrikNoren/ungit)
 - [List of other tools on Stack Overflow](http://stackoverflow.com/questions/137102/whats-the-best-visual-merge-tool-for-git)
