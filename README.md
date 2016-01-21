@@ -1,8 +1,8 @@
 # Some Git conflicts
 
-This repo contains folders with small git versioned projects. Each project has some files, and a master branch, feature branch and bugfix branch, with those names.
-Merging both the `feature` branch and `bugfix` branch will cause a conflict and you can use this to practice conflict resolution.
-
+This repo contains folders with small exercies. Each project has at least a README.md and a script (`init.sh`) to set up the exercise.  
+The goal of this document and the exercises is to make you more comfortable using Git generally, and working with conflicts specifically.
+I'll also be throwing in nice-to-knows and tips about good Git practises.
 Please open issues and pull requests if you have questions or suggestions.
 
 ## TOC
