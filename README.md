@@ -86,7 +86,7 @@ to use a [tool](#tools).
 ### Why do conflicts happen?
 
 The simple answer is that Git doesn't always know how to merge multiple versions of a file. This happens when
-to different branches makes changes to the same place in the same file.
+two different branches makes changes to the same place in the same file.
 
 ### Making the project less prone to conflicts
 
