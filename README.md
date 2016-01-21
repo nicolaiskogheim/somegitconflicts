@@ -21,10 +21,9 @@ Please open issues and pull requests if you have questions or suggestions.
 3. `git merge <branch name>` to merge in changes from the feature branch into master
 4. Solve the conflict! :)
 
-All the folders will contain a README.md, which you should take a look at.
-Where it is sufficient with one file to demonstrate some aspect, the folder
-will only contain a `conflicted.txt` file.
-Other folders contain more files and folders.
+All the folders will contain a README.md, which you should take a look at,
+and an init-script, which you must run to set up the exercise. Please read the
+section called "Windows users read this" if you use Windows.
 
 ## Folder overview
 
