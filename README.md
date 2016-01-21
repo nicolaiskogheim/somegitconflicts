@@ -32,6 +32,11 @@ section called "Windows users read this" if you use Windows.
   Here we learn how to abort a merge, and how to resolve it  
   by just editing the file.
 
+- medium
+  A small file with two conflicts.
+  We learn to select one of the branches' version of history,  
+  and use that as a starting point for resolving the conflict.
+
 ## General info and tips
 
 ### What is a conflict?
