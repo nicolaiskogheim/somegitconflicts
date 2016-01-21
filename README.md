@@ -208,6 +208,12 @@ For large and/or complicated conflicts, you might be better of using a tool. See
 - [List of other tools on Stack Overflow](http://stackoverflow.com/questions/137102/whats-the-best-visual-merge-tool-for-git)
 
 ## Tutorials
+  `man giteveryday` - A useful minimum set of commands for Everyday Git  
+  [Online link](https://git-scm.com/docs/everyday)
+
+  `man gitworkflows` - An overview of recommended workflows with Git  
+  [Online link](https://git-scm.com/docs/gitworkflows)
+
 - [Learn git branching](http://pcottle.github.io/learnGitBranching/)
   An amazingly good place to go to get really comfortable working with Git.
 
