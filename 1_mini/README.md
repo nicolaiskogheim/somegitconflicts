@@ -159,7 +159,7 @@ approachable.
 ## How to create this
 
 ```sh
-mkdir mini
+mkdir 1_mini
 cd !$       # !$ = last argument, previous line. !$ = mini
 
 git init    # Create empty repository
