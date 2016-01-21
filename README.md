@@ -12,6 +12,7 @@ Please open issues and pull requests if you have questions or suggestions.
 - Conflict resolution
 - Tools
 - Tutorials
+- Windows users read this
 
 ## How to use this
 1. `cd` into a directory
@@ -219,3 +220,8 @@ For large and/or complicated conflicts, you might be better of using a tool. See
 
 - [Tutorialspoint](http://www.tutorialspoint.com/git/)
   A thorough walkthrough of most of the features Git provides.
+
+## Windows users read this
+The init-scripts used in the exercises is bash-scripts. These won't run on Windows.
+You may be able to read through them and create the repository yourself, but if someone
+wants to write setup-scripts for windows, it is very welcomed!
