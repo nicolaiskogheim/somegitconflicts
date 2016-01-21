@@ -5,7 +5,7 @@ The goal of this document and the exercises is to make you more comfortable usin
 I'll also be throwing in nice-to-knows and tips about good Git practises.
 Please open issues and pull requests if you have questions or suggestions.
 
-## TOC
+## Table of contents
 - How to use this
 - Folder overview
 - General info and tips
