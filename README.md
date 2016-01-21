@@ -37,6 +37,8 @@ section called "Windows users read this" if you use Windows.
   We learn to select one of the branches' version of history,  
   and use that as a starting point for resolving the conflict.
 
+The next exercise will be a simple rebase. Stay tuned!
+
 ## General info and tips
 
 ### What is a conflict?
