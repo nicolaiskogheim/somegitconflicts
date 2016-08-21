@@ -268,7 +268,7 @@ class Calculator {
     }
 
 // This is still replaced without conflict
-// remember, this was where the `add` method and `subtract` methodwas
+// remember, this was where the `add` method and `subtract` method was
     public static int calc(IntBinaryOperator op, int a, int b) {
         return op.applyAsInt(a, b);
     }
@@ -291,13 +291,13 @@ class Calculator {
 }
 ```
 
-Yes, this can be a bit unwieldy, but now at least it's clear that the purpose
+Yes, this can be a bit unwieldy, but now at least it's clear what the purpose
 of the branch was. In this situation, what we want to do, is keep the refactor
 but also add in the divide-functionality.
 
 We know that we can't use the implementation provided in the branch, because of
 the refactor, so we just choose to start of from the version of the file with
-the refactoring done, and implement divide manually.
+the refactoring done, and implement the divide method manually.
 
 We will learn some new options now, so let's see what they do before we proceed.
 
@@ -382,7 +382,7 @@ git commit -m "Initial commit with functioning calculator"
 
 git tag start HEAD          # Make it easy to reset to starting point
 
-git checkout -b add-divide-method     # Create a branch "feature" and switch to it
+git checkout -b add-divide-method     # Create a branch "add-divide-method" and switch to it
 
 # Put some new code in conflict file
 cat<<EOF>conflictfile.java
